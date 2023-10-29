@@ -1,4 +1,4 @@
-# Trash-Bread
+# Trash Bread Sourdough
 Open-source Sourdough Bread recipe.
 
 ## Ingredients
