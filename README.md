@@ -3,7 +3,7 @@ Open-source Sourdough Bread recipe.
 
 ## Ingredients
 - 1 cup water
-- 3.25 cup flour
+- 3 cup flour
 - 1 teaspoon salt
 - 0.5 to 1.0 cup sourdough starter
 
