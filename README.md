@@ -1,5 +1,6 @@
 # Trash Bread Sourdough
 Open-source Sourdough Bread recipe.
+![](signal-2024-04-30-204119.jpeg)
 
 ## Ingredients
 - 1 cup water
